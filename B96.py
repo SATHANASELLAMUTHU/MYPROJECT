@@ -1,0 +1,6 @@
+a=int(input("Enter the num a:"))
+d=int(input("Enter the num d:"))
+n=int(input("Enter the num n:"))
+c=float(n/2)
+x=c*(2*a+(n-1)*d)
+print(int(x))
